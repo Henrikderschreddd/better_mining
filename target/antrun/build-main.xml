@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="C:\Users\johan\IdeaProjects\better_mining/target/better_mining-1.0.jar" todir="C:\Users\johan\Desktop\servers\main_server\plugins" overwrite="true" />
+  </target>
+</project>

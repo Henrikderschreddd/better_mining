@@ -1,0 +1,8 @@
+name: better_mining
+version: '1.0'
+main: com.better_mining.Better_mining
+api-version: '1.21'
+commands:
+  test:
+  gui:
+  giveCustomItem:
